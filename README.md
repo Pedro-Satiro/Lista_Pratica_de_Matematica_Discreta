@@ -1,5 +1,5 @@
 # Lista Pratica de Matematica Discreta
-Aula Prática
+Resposta da Lista Prática,
 Nome dos Integrantes:
 1) Pedro Henrique Sátiro Correia
 2) Tainara Gomes de Oliveira
