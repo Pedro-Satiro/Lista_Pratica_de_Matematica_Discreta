@@ -1,4 +1,4 @@
-# Lista_Pratica_de_Matematica_Discreta
+# Lista Pratica de Matematica Discreta
 Aula Prática
 Nome dos Integrantes:
 1) Pedro Henrique Sátiro Correia
