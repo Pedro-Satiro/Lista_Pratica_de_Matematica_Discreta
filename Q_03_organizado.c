@@ -1,3 +1,6 @@
+/*Escrever um programa para decompor um determinado número inteiro em seus
+fatores primos.*/
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>

@@ -1,3 +1,5 @@
+//Escrever um programa que determina se um dado número inteiro é primo ou não.
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>

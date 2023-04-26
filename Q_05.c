@@ -1,3 +1,6 @@
+/*Escrever um programa para determinar o mdc de dois números com base no Al-
+goritmo de Euclides.*/
+
 #include <stdio.h>
 //algoritmo euclides
 int alg(int num1, int num2) {

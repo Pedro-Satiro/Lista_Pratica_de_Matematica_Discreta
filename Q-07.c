@@ -1,3 +1,5 @@
+/*Escrever um programa para encontrar o inverso de a mod b.*/
+
 #include <stdio.h>
 
 int modoinverso(int a, int m)

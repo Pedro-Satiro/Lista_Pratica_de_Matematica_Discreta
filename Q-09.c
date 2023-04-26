@@ -1,3 +1,6 @@
+/*Escrever um programa para encontrar a solução única de três congruências usando
+o Teorema Chinês do Resto. (Lembre-se de verificar se os módulos são coprimos).*/
+
 #include <stdio.h>
 
 int modoinverso(int a, int m)

@@ -1,3 +1,6 @@
+/*Escrever um programa para encontrar os coeficientes s e t da combinação linear
+mdc(a, b) = s · a + t · b.*/
+
 #include <stdio.h>
 
 int euclides(int a, int b, int *s, int *t) {
